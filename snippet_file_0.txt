@@ -1,3 +1,5 @@
+//js常用公共方法
+
 var h = {};  
     h.get = function (url, data, ok, error) {  
         $.ajax({  
